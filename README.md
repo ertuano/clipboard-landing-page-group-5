@@ -104,4 +104,105 @@ Future Improvements
 Add JavaScript for clipboard copy
 Dark mode toggle
 Animation on scroll
-Deploy with Netlify/Vercel
+Deploy with Netlify/Vercel/* LOGOS */
+.logos {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+}
+.logos img {
+  width: 120px;
+}
+
+/* FOOTER */
+footer {
+  background: hsl(201, 11%, 95%);
+  padding: 50px 20px;
+  text-align: center;
+}
+.footer-logo {
+  width: 60px;
+  margin-bottom: 30px;
+}
+footer ul {
+  list-style: none;
+  margin-bottom: 40px;
+}
+footer ul li {
+  margin: 12px 0;
+}
+footer ul li a {
+  color: hsl(210, 10%, 33%);
+  text-decoration: none;
+  font-size: 1rem;
+}
+footer ul li a:hover {
+  color: hsl(171, 66%, 44%);
+}
+.social a {
+  margin: 0 10px;
+}
+.social img {
+  width: 24px;
+  filter: brightness(0) saturate(100%) invert(50%);
+}
+.social img:hover {
+  filter: brightness(0) saturate(100%) invert(40%) sepia(80%) hue-rotate(140deg);
+}
+
+/* DESKTOP STYLES */
+@media (min-width: 768px) {
+  body {
+    background-image: url('images/bg-header-desktop.png');
+  }
+  .btn-group {
+    flex-direction: row;
+    justify-content: center;
+  }
+  .snippets-grid {
+    flex-direction: row;
+    text-align: left;
+    align-items: center;
+    gap: 80px;
+  }
+  .computer-img {
+    margin: 0;
+    transform: translateX(-40px);
+  }
+  .snippets-text {
+    flex: 1;
+  }
+  .workflow-grid {
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    text-align: center;
+  }
+  .workflow-grid > div {
+    flex: 1;
+    max-width: 300px;
+  }
+  .logos {
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: left;
+  }
+  footer ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin: 0;
+  }
+  .social {
+    margin-left: auto;
+  }
+}
