@@ -58,3 +58,50 @@ Includes mobile & desktop layouts, hover effects, and smooth typography.
 ---
 
 ## File Structure
+Tech Stack
+
+HTML5
+CSS3 (Flexbox, Media Queries)
+Google Fonts
+Git & GitHub (Collaboration)
+
+
+Development Workflow
+
+Pull latest: git pull origin main
+Create branch: git checkout -b yourname-task
+Edit files
+Commit: git commit -m "yourname: did X"
+Push: git push -u origin yourname-task
+Create Pull Request on GitHub
+Leader merges to main
+
+
+Screenshots
+Desktop View
+<img src="images/preview-desktop.png" alt="Desktop">
+Mobile View
+<img src="images/preview-mobile.png" alt="Mobile">
+
+Challenges Faced & Solved
+Issue,Solution
+Images not loading,                    Fixed paths: images/image-devices.png
+Footer not responsive,                Used @media queries
+Buttons too small on mobile      ,Increased padding & font size
+Git conflicts,                                      Used git pull before editing
+
+
+What We Learned
+
+Git collaboration with 10 members
+Responsive design with mobile-first
+CSS hover effects & transitions
+Teamwork using branches & PRs
+
+
+Future Improvements
+
+Add JavaScript for clipboard copy
+Dark mode toggle
+Animation on scroll
+Deploy with Netlify/Vercel
