@@ -7,7 +7,36 @@
 **Challenge by:** [Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-BKQm1uI4Z)  
 **Coded by:** **Group 5 (10 Members)**
 
----
+---clipboard-landing-page-group-5/
+│
+├── index.html
+├── style.css
+├── README.md
+│
+├── images/
+│   ├── logo.svg
+│   ├── image-computer.png
+│   ├── image-devices.png
+│   ├── icon-.svg
+│   ├── logo-.png
+│   ├── bg-header-mobile.png
+│   ├── bg-header-desktop.png
+│   └── favicon-32x32.png
+│
+└── .git/ (Git version control)
+## How to Run Locally
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/ertuano/clipboard-landing-page-group-5.git
+
+# 2. Go to folder
+cd clipboard-landing-page-group-5
+
+# 3. Open in browser
+start main.html    # Windows
+open main.html     # macOS
+xdg-open main.html # Linux
 
 ## Project Overview
 
