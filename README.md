@@ -28,6 +28,11 @@ A modern, responsive landing page for **Clipboard** – the ultimate app for tra
 git clone https://github.com/ertuano/clipboard-landing-page-group-5.git
 cd clipboard-landing-page-group-5
 # Open index.html or main.html
+```
+Screenshots
+<img src="desktop-design.jpg" alt="Desktop">
+<img src="mobile-design.jpg" alt="Mobile">
+[[Group-5-Vault|Group 5 Vault]]
 Ayantu Ashagre
 Feven Mesele
 Eyerusalem Mesele
