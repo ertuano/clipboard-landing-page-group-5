@@ -32,13 +32,14 @@ cd clipboard-landing-page-group-5
 Screenshots
 <img src="desktop-design.jpg" alt="Desktop">
 <img src="mobile-design.jpg" alt="Mobile">
-[[Group-5-Vault|Group 5 Vault]]
-Ayantu Ashagre
-Feven Mesele
-Eyerusalem Mesele
-Edna Aschalew
-Negele Boru
-Yididiya Mathewos
-Sartu Bedhasa
-Betel Tamirat
-Eyosiyas Alemayehu
+## Group Members
+
+- **Ayantu Ashagre**  
+- **Feven Mesele**  
+- **Eyerusalem Mesele**  
+- **Edna Aschalew**  
+- **Negele Boru**  
+- **Yididiya Mathewos**  
+- **Sartu Bedhasa**  
+- **Betel Tamirat**  
+- **Eyosiyas Alemayehu**
